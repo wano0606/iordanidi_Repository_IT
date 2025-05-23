@@ -54,3 +54,21 @@ nav ul li a {
 .hero h2 {
     margin-bottom: 10px;
 }
+/* О школе */
+.about {
+    background-color: #fff;
+    padding: 40px 20px;
+    margin: 20px auto;
+    max-width: 900px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Подвал */
+footer {
+    background-color: #007acc;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+}
